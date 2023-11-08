@@ -44,7 +44,4 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=aadibarnwal&&style=flat-square"  align="center" />
 </div> 
-<!---
-Paritosh-26dev/Paritosh-26dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
